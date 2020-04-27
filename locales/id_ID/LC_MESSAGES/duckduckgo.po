@@ -23,7 +23,7 @@ msgstr "Pintasan Pencarian !Bang"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr "$800,000 dalam sumbangan pribadi!"
+msgstr "$800,000 dalam sumbangan peningkatan privasi!"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
@@ -35,7 +35,7 @@ msgstr "%s diblokir oleh penelusuran aman."
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "%s hari yang lalu"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -44,22 +44,22 @@ msgstr "%s untuk %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s jam yang lalu"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr "%s di donasi privasi!"
+msgstr "%s dalam donasi peningkatan privasi!"
 
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s mil"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr "%s dari %s"
+msgstr "%s di %s"
 
 msgctxt "hackus"
 msgid "%s us."
@@ -86,7 +86,7 @@ msgstr "%s%s%s ulasan"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, lalu tekan tombol %sOke%s"
 
 msgctxt "install-duckduckgo"
 msgid ""
@@ -4813,7 +4813,7 @@ msgid ""
 "associated with it."
 msgstr ""
 "Kata sandi tidak pernah meninggalkan browser, hanya kunci dan file "
-"pengaturan yang terkait dengan itu."
+"pengaturan yang terkait dengan hal tersebut."
 
 msgctxt "new user poll"
 msgid "Your response is 100% anonymous."
@@ -4825,7 +4825,7 @@ msgstr "periklanan"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback
 msgid "browsers"
-msgstr "browser"
+msgstr "peramban"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "by %s"
@@ -4842,7 +4842,7 @@ msgid "default"
 msgstr "standar"
 
 msgid "email"
-msgstr ""
+msgstr "surel"
 
 #. Can somebody provide the context?
 msgid "for"
@@ -4850,24 +4850,24 @@ msgstr "untuk"
 
 msgctxt "nonjsversion"
 msgid "here"
-msgstr "disini"
+msgstr "di sini"
 
 #. Part of the sentence: "If you have any questions or concerns, please <b>let us know</b>."
 msgctxt "questions"
 msgid "let us know"
-msgstr "beritahu kami"
+msgstr "sampaikan kepada kami"
 
 #. https://duckduckgo.com/50x.html?e=2
 #. p.s.(tsester): i found it out by searching "  "
 msgid "no search"
-msgstr "tanpa pencarian"
+msgstr "tidak ada pencarian"
 
 msgctxt "webelieve"
 msgid "no tracking"
-msgstr "tanpa pelacakan"
+msgstr "tidak ada pelacakan"
 
 msgid "not %s encoding"
-msgstr "tanpa %s encoding"
+msgstr "tidak ada %s encoding"
 
 #. in https://duckduckgo.com/newbang on the fields: "Email" and "Comments"
 msgid "optional"
@@ -4878,12 +4878,12 @@ msgstr "opsional"
 msgid ""
 "or write out the color code you want, e.g. %s (%s is an encoded %s char)."
 msgstr ""
-"atau menulis kode warna yang Anda inginkan, misalnya %s (%s adalah char "
+"atau menulis kode warna yang Anda inginkan, misalnya %s (%s adalah karakter "
 "disandikan %s)."
 
 #. in https://duckduckgo.com/params under "Look & Feel Settings" under both "Link font: " and "Link font: "
 msgid "or write out the font you want"
-msgstr "atau menulis font yang Anda inginkan"
+msgstr "atau menulis huruf yang Anda inginkan"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "permanently"
@@ -4898,7 +4898,7 @@ msgid "temporarily"
 msgstr "sementara"
 
 msgid "there was an error."
-msgstr "ada kesalahan."
+msgstr "terdapat kesalahan."
 
 msgctxt "moreinfo"
 msgid "this help page"
